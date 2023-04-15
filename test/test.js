@@ -52,7 +52,7 @@ test('load promise', async function (t) {
     await promisify(video.addEventListener.bind(video))('durationchange');
   }
 
-  t.equal(Math.round(video.duration), 20, `is 20s long`);
+  t.equal(Math.round(video.duration), 90, `is 90s long`);
 });
 
 test('play promise', async function (t) {
