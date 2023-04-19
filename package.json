@@ -1,6 +1,6 @@
 {
   "name": "@luwes/dash-video-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom element for playing video using the DASH format. Uses dash.js.",
   "type": "module",
   "main": "dash-video-element.js",
