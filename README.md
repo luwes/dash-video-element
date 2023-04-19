@@ -4,7 +4,7 @@
 [![Badge size](https://img.badgesize.io/https://cdn.jsdelivr.net/npm/@luwes/dash-video-element/+esm?compression=gzip&label=gzip&style=flat-square)](https://cdn.jsdelivr.net/npm/@luwes/dash-video-element/+esm)
 
 A [custom element](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) 
-for hls.js with an API that matches the 
+for dash.js with an API that matches the 
 [`<video>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) API.
 
 - 🏄‍♂️ Compatible [`HTMLMediaElement`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) API

@@ -26,7 +26,7 @@ class DashVideoElement extends SuperVideoElement {
   }
 }
 
-if (!globalThis.customElements.get('dash-video')) {
+if (globalThis.customElements && !globalThis.customElements.get('dash-video')) {
   globalThis.customElements.define('dash-video', DashVideoElement);
 }
 
